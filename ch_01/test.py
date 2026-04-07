@@ -1,3 +1,3 @@
-print("hi!!!! ^^!!~!~")
+print("hi!! ^^!!~!~")
 print("reset your mind")
-print("thanks!!!")
+print("thanks!")
